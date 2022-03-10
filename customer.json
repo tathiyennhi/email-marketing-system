@@ -1,0 +1,16 @@
+[
+ {
+  "From": "The Marketing Team\u003cmarketing@example.com\u003e",
+  "To": "john.smith@example.com",
+  "Subject": "A new product is being launched soon...",
+  "MimeType": "text/html",
+  "Body": "Hi Mr John Smith, \nToday, 10 Mar 2022, we would like to tell you that... Sincerely,\nThe Marketing Team"
+ },
+ {
+  "From": "The Marketing Team\u003cmarketing@example.com\u003e",
+  "To": "tathiyennhi@gmail.com",
+  "Subject": "A new product is being launched soon...",
+  "MimeType": "text/html",
+  "Body": "Hi Mrs Michelle Smith, \nToday, 10 Mar 2022, we would like to tell you that... Sincerely,\nThe Marketing Team"
+ }
+]
